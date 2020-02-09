@@ -19,6 +19,21 @@ public class Time {
     public int s;
 
     /**
+     * 月份
+     */
+    public int mo;
+
+    /**
+     * 年份
+     */
+    public int y;
+
+    /**
+     * 天数
+     */
+    public int d;
+
+    /**
      *
      * @param h
      * @param m
